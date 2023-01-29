@@ -1,0 +1,6 @@
+C:\Users\chris\source\repos\Vet-Office-App\Vet-Office-Lib\obj\Debug\Vet-Office-Lib.csproj.AssemblyReference.cache
+C:\Users\chris\source\repos\Vet-Office-App\Vet-Office-Lib\obj\Debug\Vet-Office-Lib.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\Vet-Office-App\Vet-Office-Lib\bin\Debug\Vet-Office-Lib.dll
+C:\Users\chris\source\repos\Vet-Office-App\Vet-Office-Lib\bin\Debug\Vet-Office-Lib.pdb
+C:\Users\chris\source\repos\Vet-Office-App\Vet-Office-Lib\obj\Debug\Vet-Office-Lib.dll
+C:\Users\chris\source\repos\Vet-Office-App\Vet-Office-Lib\obj\Debug\Vet-Office-Lib.pdb

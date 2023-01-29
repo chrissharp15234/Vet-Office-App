@@ -1,0 +1,10 @@
+C:\Users\chris\source\repos\Vet-Office-App\Vet-Office-UI\obj\Debug\Vet-Office-UI.csproj.AssemblyReference.cache
+C:\Users\chris\source\repos\Vet-Office-App\Vet-Office-UI\obj\Debug\Vet-Office-UI.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\Vet-Office-App\Vet-Office-UI\bin\Debug\Vet-Office-UI.exe.config
+C:\Users\chris\source\repos\Vet-Office-App\Vet-Office-UI\bin\Debug\Vet-Office-UI.exe
+C:\Users\chris\source\repos\Vet-Office-App\Vet-Office-UI\bin\Debug\Vet-Office-UI.pdb
+C:\Users\chris\source\repos\Vet-Office-App\Vet-Office-UI\bin\Debug\Vet-Office-Lib.dll
+C:\Users\chris\source\repos\Vet-Office-App\Vet-Office-UI\bin\Debug\Vet-Office-Lib.pdb
+C:\Users\chris\source\repos\Vet-Office-App\Vet-Office-UI\obj\Debug\Vet-Office-UI.csproj.CopyComplete
+C:\Users\chris\source\repos\Vet-Office-App\Vet-Office-UI\obj\Debug\Vet-Office-UI.exe
+C:\Users\chris\source\repos\Vet-Office-App\Vet-Office-UI\obj\Debug\Vet-Office-UI.pdb
