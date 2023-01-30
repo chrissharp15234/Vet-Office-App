@@ -23,6 +23,7 @@ namespace Vet_Office_UI
             else
             {
                 Console.WriteLine("\nThere's nothing else we can do for you!");
+                Console.WriteLine("\nGoodbye!");
             }
 
             Console.ReadLine();
