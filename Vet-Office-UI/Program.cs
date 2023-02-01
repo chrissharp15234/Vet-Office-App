@@ -12,13 +12,18 @@ namespace Vet_Office_UI
         static void Main(string[] args)
         {
             Console.WriteLine("Hello! What would you like to do?");
-            Console.Write("\nAdd Pet? (y/n) ");
+            Console.WriteLine("\nAdd Pet? (press 0)");
+            Console.WriteLine("Get Pet? (press 1)\n");
 
             string answer = Console.ReadLine();
 
-            if (answer.ToLower() == "y")
+            if (answer.ToLower() == "0")
             {
                 AddPet.addPet();
+            }
+            else if(answer.ToLower() == "1")
+            {
+                GetPet.getPet();
             }
             else
             {
