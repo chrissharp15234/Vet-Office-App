@@ -16,20 +16,20 @@ namespace Vet_Office_UI
             Console.WriteLine("Get Pet? (press 1)\n");
 
             string answer = Console.ReadLine();
-
-            if (answer.ToLower() == "0")
+            
+            switch (answer)
             {
-                AddPet.addPet();
-            }
-            else if(answer.ToLower() == "1")
-            {
-                GetPet.getPet();
-            }
-            else
-            {
-                Console.WriteLine("\nThere's nothing else we can do for you!");
-                Console.WriteLine("\nGoodbye!");
-            }
+                case "0":
+                    AddPet.addPet();
+                    break;
+                case "1":
+                    GetPet.getPet();
+                    break;
+                default:
+                    Console.WriteLine("\nThere's nothing else we can do for you!");
+                    Console.WriteLine("\nGoodbye!");
+                    break;
+            }            
 
             Console.ReadLine();
         }
