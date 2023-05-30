@@ -41,12 +41,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Data Access\DataAccess.cs" />
     <Compile Include="Enums\CatType.cs" />
     <Compile Include="Enums\DogType.cs" />
     <Compile Include="Pet Models\Cat.cs" />
     <Compile Include="Pet Models\Dog.cs" />
     <Compile Include="Pet Models\Pet.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Data Access\Database\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

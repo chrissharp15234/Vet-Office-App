@@ -3,3 +3,4 @@ C:\Users\chris\source\repos\Vet-Office-App\Vet-Office-Lib\bin\Release\Vet-Office
 C:\Users\chris\source\repos\Vet-Office-App\Vet-Office-Lib\obj\Release\Vet-Office-Lib.csproj.CoreCompileInputs.cache
 C:\Users\chris\source\repos\Vet-Office-App\Vet-Office-Lib\obj\Release\Vet-Office-Lib.dll
 C:\Users\chris\source\repos\Vet-Office-App\Vet-Office-Lib\obj\Release\Vet-Office-Lib.pdb
+C:\Users\chris\source\repos\Vet-Office-App\Vet-Office-Lib\obj\Release\Vet-Office-Lib.csproj.AssemblyReference.cache

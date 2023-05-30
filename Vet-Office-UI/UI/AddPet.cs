@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using Vet_Office_Lib.Data_Access;
 using Vet_Office_Lib.Pet_Models;
 using static Vet_Office_Lib.Enums.Cat;
 using static Vet_Office_Lib.Enums.Dog;
@@ -78,6 +80,13 @@ namespace Vet_Office_UI.UI
                         }
 
                     } while ((rn == "") || (rn.Length != 8));
+
+                    //Add dog to Data Access and CSV file
+                    List<Dog> dogs = new List<Dog>();
+                    dogs.Add(dog);
+                    DataAccess<Dog> dataAccess = new DataAccess<Dog>();                    
+                    dataAccess.SaveToCSV(dogs, @"C:\Users\chris\source\repos\Vet-Office-App\Vet-Office-Lib\Data Access\Database\Dogs.csv");
+                    //----------------------------------
 
                     Console.WriteLine("\nOK, here are your pet's details: \n");
                     Console.WriteLine(dog.GetPetDetails());
